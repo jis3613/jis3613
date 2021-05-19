@@ -21,7 +21,7 @@
 - Development of multimodal sensor-based intelligent systems for outdoor surveillance robots. (2019.3 ~ present)
 
 #### :meat_on_bone: Links
-- [Personal website](http://mipal.snu.ac.kr/index.php?title=Inseop_Chung&action=edit)
+- [Personal website](http://mipal.snu.ac.kr/index.php/Inseop_Chung)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=6bFY9FgAAAAJ)
 
 
