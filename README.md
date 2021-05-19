@@ -9,7 +9,7 @@
 - Exchange Student at Informatik (Computer Science) Department of Technische Universität München (Technical University of Munich), Germany. (Oct. 2016 ~ Aug. 2017)
   
 #### :crown: Work Experience
-- Research Intern in Naver Webntoons Corp. (2020.06 ~ 2020.12)
+- Research Intern at Naver Webtoons Corp. (2020.06 ~ 2020.12)
 
 #### :book: Publications
 - '''Inseop Chung''', Daesik Kim, Nojun Kwak, [Maximizing Cosine Similarity Between Spatial Features for Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/pdf/2102.13002.pdf), arXiv, Feb. 
