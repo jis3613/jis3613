@@ -3,6 +3,7 @@
 #### :wine_glass: Research Interests
 - Deep Learning, Computer Vision, Knowledge Distillation, Domain Adaptation
 
+<!--
 #### :mortar_board: Education
 - M.S./Ph.D. Student in Graduate School of Convergence Science and Technology, Seoul National University, South Korea. (Mar. 2019 ~ Present)
 - B.S. in Computer Science / Creative Technology Management (Double Major), Yonsei University, South Korea. (Feb. 2019)
@@ -19,6 +20,7 @@
 
 #### :trophy: Projects
 - Development of multimodal sensor-based intelligent systems for outdoor surveillance robots. (2019.3 ~ present)
+-->
 
 #### :meat_on_bone: Links
 - [Personal website](http://mipal.snu.ac.kr/index.php/Inseop_Chung)
