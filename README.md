@@ -23,7 +23,7 @@
 -->
 
 #### :meat_on_bone: Links
-- [Personal website](http://mipal.snu.ac.kr/index.php/Inseop_Chung)
+- [Personal website](https://inseopchung.github.io/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=6bFY9FgAAAAJ)
 
 
